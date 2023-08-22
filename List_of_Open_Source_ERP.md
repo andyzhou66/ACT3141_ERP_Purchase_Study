@@ -1,4 +1,4 @@
-<div style='text-align :center;'> #**值得考虑的 9 个开源 ERP 系统**</div>
+# <div style='text-align :center;'> 值得考虑的 9 个开源 ERP 系统</div>
 
 [来源知乎](https://zhuanlan.zhihu.com/p/38596324)
 
